@@ -1,10 +1,3 @@
-//
-//  functions.h
-//  MiniProj
-//
-//  Created by Hamza Hraiche on 12/17/21.
-//
-
 #ifndef functions_h
 #define functions_h
 
